@@ -1,4 +1,4 @@
 # firstSteps
 my first repository, duh
 
-hello
+okay something really about me: I like cristina
